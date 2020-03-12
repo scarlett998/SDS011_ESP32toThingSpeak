@@ -27,7 +27,7 @@ const char* password = "12345678";
 // ThingSpeak settings
 unsigned long channelID = 1013888;
 char server[] = "api.thingspeak.com";
-char* writeAPIKey = "TU62UG1A85R8V0W6";
+char* writeAPIKey = "xxxxxxxxxx";
 unsigned int dataFieldOne = 1;    
 // Field to write temperature data
 // Constants
